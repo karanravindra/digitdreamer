@@ -1,0 +1,3 @@
+[submodule "hf-space"]
+	path = DigitDreamer
+	url = https://huggingface.co/spaces/karanravindra/DigitDreamer
